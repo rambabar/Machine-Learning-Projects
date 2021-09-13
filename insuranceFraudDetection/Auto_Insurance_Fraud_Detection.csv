@@ -13,7 +13,7 @@ Sr. No.,Feature,Description
 12,insured_education_level,The highest educational qualification of the policy-holder.
 13,insured_occupation,The occupation of the policy-holder.
 14,insured_hobbies,The hobbies of the policy-holder.
-15,insured_relationship,Relationship to the policy- holder.
+15,insured_relationship,Relationship with the policy- holder.
 16,capital-gain,It denotes the monitory gains by the person.
 17,capital-loss,It denotes the monitory loss by the person.
 18,incident_date,The date when the incident happened.
