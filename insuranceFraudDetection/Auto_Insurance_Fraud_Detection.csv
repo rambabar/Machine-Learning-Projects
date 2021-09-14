@@ -36,3 +36,4 @@ Sr. No.,Feature,Description
 35,auto_make,The manufacturer of the vehicle
 36,auto_model,The model of the vehicle.
 37,auto_year,The year of manufacture of the vehicle.
+38,fraud_reported,For given details the fraud is happend or not.
